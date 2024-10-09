@@ -7,6 +7,8 @@
 #include <QList>
 #include <QProcess>
 #include <QInputDialog>
+#include <QHeaderView>
+#include <QJsonParseError>
 
 #include "AtomicConfigDialog.h"
 #include "OfferModel.h"
