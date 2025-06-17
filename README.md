@@ -1,3 +1,4 @@
+# Archived Please Use New Repo To Build Plugin Manually !!!!
 # Feather Atomic
 
 Feather Atomic is a plugin for the free, open-source Monero wallet for Linux, Tails, macOS and Windows, Feather. It is written in C++ with the Qt framework.
